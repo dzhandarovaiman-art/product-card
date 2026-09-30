@@ -23,7 +23,7 @@ body {
   color: #515076;
 }
 
-buy-button {
+.buy-button {
   background-color: #515076;
   color: #fff;
   border: 1px solid #000;
@@ -63,10 +63,6 @@ buy-button-grin {
 
 .compound-list {
   
-  width: 252;
-height: 87;
-top: 820px;
-left: 110px;
 border-width: 1px;
 color: #515076;
 }
