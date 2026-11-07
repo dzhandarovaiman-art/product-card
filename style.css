@@ -14,14 +14,13 @@ body {
 }
 
 .products-list {
-  width: 340;
-  height: 573;
-  top: 408px;
+  list-style: none;
+  margin: 0;
   left: 85px;
-  border-width: 1px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 48px;
 }
 
 .main-text {
@@ -72,16 +71,11 @@ border-width: 1px;
 color: #515076;
 }
 
-.li-style {
-   max-width: 300px;
+.product-card {
+    max-width: 300px;
     list-style: none;
-    margin: 25px;
-    padding: 45px;
+    padding: 25px;
     background-color: #f7f7fa;
 }
 
-.bottom-row {
-    display: flex;
-    justify-content: center;
-    gap: 20px; 
-}
+
