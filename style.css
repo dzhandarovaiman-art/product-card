@@ -2,7 +2,6 @@ body {
   font-family: Montserrat, sans-serif;
   font-size: 13px;
   line-height: 18px;
-}
 
 .title {
   font-size: 54px;
@@ -49,7 +48,6 @@ buy-button-grin {
 }
 
 .description {
-  width: 287;
   height: 36;
   top: 769px;
   left: 110px;
@@ -58,7 +56,6 @@ buy-button-grin {
 }
 
 .compound {
-  width: 287;
   height: 36;
   top: 769px;
   left: 110px;
@@ -66,7 +63,6 @@ buy-button-grin {
 }
 
 .compound-list {
-  
 border-width: 1px;
 color: #515076;
 }
@@ -77,5 +73,3 @@ color: #515076;
     padding: 25px;
     background-color: #f7f7fa;
 }
-
-
